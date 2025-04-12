@@ -1,6 +1,6 @@
-📘 Projeto DevFlow – Ambiente Pessoal de Produtividade
+📘 Projeto FlowState – Ambiente Pessoal de Produtividade
 
-Bem-vindo ao DevFlow, seu ambiente pessoal de produtividade! Este projeto tem como objetivo colocar em prática conhecimentos avançados de arquitetura de software, desenvolvimento fullstack e DevOps, utilizando tecnologias modernas como .NET 9, React.js, Docker e Azure.
+Bem-vindo ao FlowState, seu ambiente pessoal de produtividade! Este projeto tem como objetivo colocar em prática conhecimentos avançados de arquitetura de software, desenvolvimento fullstack e DevOps, utilizando tecnologias modernas como .NET 9, React.js, Docker e Azure.
 
 🎯 Objetivo
 
