@@ -1,0 +1,18 @@
+/* src/assets/styles/base.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Transições suaves */
+* {
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Estilos base para formulários */
+.form-group {
+  @apply space-y-2;
+}
+
+body {
+  @apply bg-white text-black dark:bg-gray-900 dark:text-white;
+}
