@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowState.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9811b3f3376040c76363da4b78691f38da30a821")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowState.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowState.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
