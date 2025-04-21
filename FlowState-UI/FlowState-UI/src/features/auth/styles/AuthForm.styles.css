@@ -1,0 +1,23 @@
+.auth-form {
+  @apply w-full max-w-md space-y-6;
+}
+
+.auth-form__header {
+  @apply text-center;
+}
+
+.auth-form__title {
+  @apply text-2xl font-bold text-gray-800;
+}
+
+.auth-form__subtitle {
+  @apply text-gray-500;
+}
+
+.auth-form__content {
+  @apply space-y-4;
+}
+
+.auth-form__submit {
+  @apply w-full;
+}

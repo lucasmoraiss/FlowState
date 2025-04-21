@@ -1,0 +1,17 @@
+C:\Users\lucas\FlowState\FlowState.Application\bin\Debug\net9.0\FlowState.Application.deps.json
+C:\Users\lucas\FlowState\FlowState.Application\bin\Debug\net9.0\FlowState.Application.dll
+C:\Users\lucas\FlowState\FlowState.Application\bin\Debug\net9.0\FlowState.Application.pdb
+C:\Users\lucas\FlowState\FlowState.Application\bin\Debug\net9.0\FlowState.Domain.dll
+C:\Users\lucas\FlowState\FlowState.Application\bin\Debug\net9.0\FlowState.Infrastructure.dll
+C:\Users\lucas\FlowState\FlowState.Application\bin\Debug\net9.0\FlowState.Domain.pdb
+C:\Users\lucas\FlowState\FlowState.Application\bin\Debug\net9.0\FlowState.Infrastructure.pdb
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowState.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowState.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowState.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowState.Application.AssemblyInfo.cs
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowState.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowStat.EB41119A.Up2Date
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowState.Application.dll
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\refint\FlowState.Application.dll
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\FlowState.Application.pdb
+C:\Users\lucas\FlowState\FlowState.Application\obj\Debug\net9.0\ref\FlowState.Application.dll

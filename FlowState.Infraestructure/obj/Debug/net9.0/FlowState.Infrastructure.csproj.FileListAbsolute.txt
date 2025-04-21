@@ -1,0 +1,17 @@
+C:\Users\lucas\FlowState\FlowState.Infraestructure\bin\Debug\net9.0\FlowState.Infrastructure.deps.json
+C:\Users\lucas\FlowState\FlowState.Infraestructure\bin\Debug\net9.0\FlowState.Infrastructure.runtimeconfig.json
+C:\Users\lucas\FlowState\FlowState.Infraestructure\bin\Debug\net9.0\FlowState.Infrastructure.dll
+C:\Users\lucas\FlowState\FlowState.Infraestructure\bin\Debug\net9.0\FlowState.Infrastructure.pdb
+C:\Users\lucas\FlowState\FlowState.Infraestructure\bin\Debug\net9.0\FlowState.Domain.dll
+C:\Users\lucas\FlowState\FlowState.Infraestructure\bin\Debug\net9.0\FlowState.Domain.pdb
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.AssemblyInfo.cs
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowStat.106717DB.Up2Date
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.dll
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\refint\FlowState.Infrastructure.dll
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.pdb
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\FlowState.Infrastructure.genruntimeconfig.cache
+C:\Users\lucas\FlowState\FlowState.Infraestructure\obj\Debug\net9.0\ref\FlowState.Infrastructure.dll

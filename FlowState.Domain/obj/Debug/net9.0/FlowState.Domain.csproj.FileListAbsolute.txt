@@ -1,0 +1,11 @@
+C:\Users\lucas\FlowState\FlowState.Domain\bin\Debug\net9.0\FlowState.Domain.deps.json
+C:\Users\lucas\FlowState\FlowState.Domain\bin\Debug\net9.0\FlowState.Domain.dll
+C:\Users\lucas\FlowState\FlowState.Domain\bin\Debug\net9.0\FlowState.Domain.pdb
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\FlowState.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\FlowState.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\FlowState.Domain.AssemblyInfo.cs
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\FlowState.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\FlowState.Domain.dll
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\refint\FlowState.Domain.dll
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\FlowState.Domain.pdb
+C:\Users\lucas\FlowState\FlowState.Domain\obj\Debug\net9.0\ref\FlowState.Domain.dll
